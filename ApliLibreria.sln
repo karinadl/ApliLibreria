@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "ApliLibreria\AccesoDatos.csproj", "{18CAFE00-19B3-4163-B128-7DD438B7A481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{E361EF8D-A465-4363-A697-B85B56BBEEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CAFE00-19B3-4163-B128-7DD438B7A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CAFE00-19B3-4163-B128-7DD438B7A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CAFE00-19B3-4163-B128-7DD438B7A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CAFE00-19B3-4163-B128-7DD438B7A481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E361EF8D-A465-4363-A697-B85B56BBEEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E361EF8D-A465-4363-A697-B85B56BBEEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E361EF8D-A465-4363-A697-B85B56BBEEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E361EF8D-A465-4363-A697-B85B56BBEEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7676603-4009-4EFC-9C41-9BA0531CE7C6}
+	EndGlobalSection
+EndGlobal

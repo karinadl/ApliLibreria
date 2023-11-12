@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#tabla-libros {
+  width:  100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#tabla-libros th, #tabla-libros td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#tabla-libros th {
+  background-color: #f2f2f2;
+}
+#tabla-libros td.columna-title {
+  width: 450px; /* Ajusta el ancho según tus preferencias */
+}
